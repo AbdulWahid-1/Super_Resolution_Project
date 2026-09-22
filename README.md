@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/787147628.svg)](https://doi.org/10.5281/zenodo.22904071)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.787147628.svg)](https://doi.org/10.5281/zenodo.787147628)
 
 
 # Image Super-Resolution and Denoising Pipeline
