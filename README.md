@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/787147628.svg)](https://doi.org/10.5281/zenodo.22904071)
+
+
 # Image Super-Resolution and Denoising Pipeline
 
 ![Final Evaluation Result](output/evaluation_graph.png)
